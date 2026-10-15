@@ -1,6 +1,6 @@
 ﻿namespace TemplateMethodPattern
 {
-    internal abstract class CaffeineBeverageWithHook
+    internal abstract class BeverageWithHook
     {
         public void PrepareRecipe()
         {

@@ -1,6 +1,6 @@
 ﻿namespace TemplateMethodPattern
 {
-    public class Tea : CaffeineBeverage
+    public class Tea : Beverage
     {
         public override void Brew()
         {

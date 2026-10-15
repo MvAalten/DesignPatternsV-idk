@@ -1,6 +1,6 @@
 ﻿namespace TemplateMethodPattern
 {
-    internal class CoffeeWithHook : CaffeineBeverageWithHook
+    internal class CoffeeWithHook : BeverageWithHook
     {
         public override void Brew()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TemplateMethodPattern
 {
-    public abstract class CaffeineBeverage
+    public abstract class Beverage
     {
         public void PrepareRecipe()
         {

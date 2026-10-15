@@ -1,6 +1,4 @@
-﻿using TemplateMethodPattern.CompareTo;
-
-namespace TemplateMethodPattern
+﻿namespace TemplateMethodPattern
 {
     internal class Program
     {
@@ -18,12 +16,12 @@ namespace TemplateMethodPattern
             // Example with abstracted classes
             Console.WriteLine("\n\nNow with abstracted classes\n\n");
 
-            CaffeineBeverage tea = new Tea();
-            CaffeineBeverage coffee = new Coffee();
+            Beverage tea = new Tea();
+            Beverage coffee = new Coffee();
 
-            // TODO: Create a Soda child class of CaffeineBeverage
-            // TODO: Instantiate a Soda object
-            // TODO: Prepare the Soda object
+            // TODO: Create a Chocolatemilk child class of CaffeineBeverage
+            // TODO: Instantiate a Chocolatemilk object
+            // TODO: Prepare the Chocolatemilk object
 
             tea.PrepareRecipe();
             coffee.PrepareRecipe();
