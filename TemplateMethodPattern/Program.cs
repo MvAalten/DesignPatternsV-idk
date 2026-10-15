@@ -19,7 +19,7 @@
             Beverage tea = new Tea();
             Beverage coffee = new Coffee();
 
-            // TODO: Create a Chocolatemilk child class of CaffeineBeverage
+            // TODO: Create a Chocolatemilk child class of Beverage
             // TODO: Instantiate a Chocolatemilk object
             // TODO: Prepare the Chocolatemilk object
 
