@@ -18,13 +18,11 @@
 
             Beverage tea = new Tea();
             Beverage coffee = new Coffee();
-
-            // TODO: Create a Chocolatemilk child class of Beverage
-            // TODO: Instantiate a Chocolatemilk object
-            // TODO: Prepare the Chocolatemilk object
+            Beverage chocolateMilk = new ChocolateMilk();
 
             tea.PrepareRecipe();
             coffee.PrepareRecipe();
+            chocolateMilk.PrepareRecipe();
 
             // Example with hooked abstracted classes
             Console.WriteLine("\n\n Now with hooked classes\n\n");
