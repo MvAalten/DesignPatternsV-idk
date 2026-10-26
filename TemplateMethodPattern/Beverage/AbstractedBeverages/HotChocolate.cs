@@ -9,7 +9,7 @@ namespace TemplateMethodPattern
 
         public override void AddCondiments()
         {
-            Console.WriteLine("Adding whipped cream and marshmallows");
+            Console.WriteLine("Adding cream");
         }
     }
 }
