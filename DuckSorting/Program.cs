@@ -17,6 +17,11 @@
 
             Console.WriteLine("Before sorting:");
             Display(ducks);
+
+            Array.Sort(ducks);
+
+            Console.WriteLine("After sorting:");
+            Display(ducks);
         }
 
 
