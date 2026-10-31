@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="DuckSorting/DuckSorting.csproj" Id="752cadae-67ca-42a9-b75b-6cc804fa8980" />
   <Project Path="TemplateMethodPattern/TemplateMethodPattern.csproj" />
+  <Project Path="VendorClasses/VendorClasses.csproj" />
+  <Project Path="CommandPattern/CommandPattern.csproj" />
+  <Project Path="FacadePattern/FacadePattern.csproj" />
 </Solution>
